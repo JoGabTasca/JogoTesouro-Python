@@ -1,5 +1,5 @@
 # JogoTesouro-Python  
-Trabalho realizado para a entrega da prova final da disciplina de Pensamento Computacional da turma de 2023.2  
+Trabalho realizado para a entrega da prova final da disciplina de Programação Estruturada da turma de 2023.2  
 Realizado em grupo  
 #### Integrantes  
 João Gabriel Tasca Barroso de Assis  
